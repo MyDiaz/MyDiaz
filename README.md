@@ -25,7 +25,7 @@ Focused on translating data into actionable insights.
 | Project | Description | Tech |
 |---------|-------------|------|
 | [AppPalma](#appalma) | Full-stack agribusiness data system | PostgreSQL, Node.js, Angular |
-| [Airlines Satisfaction Analysis](#airlines) | Customer satisfaction analysis | Python, Pandas, Seaborn |
+| [Airlines Satisfaction Analysis](https://github.com/MyDiaz/customer-satisfaction/blob/main/notebook/Airlines%20Customer%20satisfaction.ipynb) | Customer satisfaction analysis | Python, Pandas, Seaborn |
 | [Power BI Portfolio](#powerbi) | Interactive dashboards | Power BI, DAX |
 
 ---
