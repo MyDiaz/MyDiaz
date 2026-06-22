@@ -12,7 +12,7 @@ Focused on translating data into actionable insights.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** SQL (PostgreSQL, MySQL) | Python | JavaScript/TypeScript
 - **Visualization:** Power BI | Matplotlib | Seaborn
 - **Tools:** Git | Jupyter Notebooks | Postman
@@ -21,12 +21,12 @@ Focused on translating data into actionable insights.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [AppPalma](#appalma) | Full-stack agribusiness data system | PostgreSQL, Node.js, Angular |
+| [SIGPA](#appalma) | Full-stack agribusiness data system | Express, Node.js, Angular, Flutter |
 | [Airlines Satisfaction Analysis](https://github.com/MyDiaz/customer-satisfaction/blob/main/notebook/Airlines%20Customer%20satisfaction.ipynb) | Customer satisfaction analysis | Python, Pandas, Seaborn |
-| [Power BI Portfolio](#powerbi) | Interactive dashboards | Power BI, DAX |
+| [Power BI Portfolio](https://mavenshowcase.com/profile/a8813350-a0f1-7072-c7ad-882f66be5809) | Interactive dashboards | Power BI, DAX |
 
 ---
 
