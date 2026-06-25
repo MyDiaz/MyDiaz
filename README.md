@@ -16,7 +16,7 @@ Focused on translating data into actionable insights.
 - **Languages:** SQL (PostgreSQL, MySQL) | Python | JavaScript/TypeScript
 - **Visualization:** Power BI | Matplotlib | Seaborn
 - **Tools:** Git | Jupyter Notebooks | Postman
-- **Databases:** PostgreSQL | MySQL
+- **Databases:** PostgreSQL |  
 - **Platforms:** Power BI | Microsoft Power Platform
 
 ---
@@ -24,9 +24,10 @@ Focused on translating data into actionable insights.
 ## Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [SIGPA](#appalma) | Full-stack agribusiness data system | Express, Node.js, Angular, Flutter |
-| [Airlines Satisfaction Analysis](https://github.com/MyDiaz/customer-satisfaction/blob/main/notebook/Airlines%20Customer%20satisfaction.ipynb) | Customer satisfaction analysis | Python, Pandas, Seaborn |
-| [Power BI Portfolio](https://mavenshowcase.com/profile/a8813350-a0f1-7072-c7ad-882f66be5809) | Interactive dashboards | Power BI, DAX |
+| [SIGPA frontend] (https://github.com/MyDiaz/AppPalma) | App for agricultural management of oil palm crops | Angular, Typescript |
+| [SIGPA backend] (https://github.com/MyDiaz/apppalmarest) | REST API for agricultural management of oil palm crops | Node, ExpressJS, Javascript |
+| [Airlines Satisfaction Analysis](https://github.com/MyDiaz/customer-satisfaction/blob/main/notebook/Airlines%20Customer%20satisfaction.ipynb) | Customer satisfaction analysis | Python, Pandas, Seaborn, Matplotlib |
+| [Power BI Portfolio](https://mavenshowcase.com/profile/a8813350-a0f1-7072-c7ad-882f66be5809) | Interactive reports | Power BI, DAX |
 
 ---
 
