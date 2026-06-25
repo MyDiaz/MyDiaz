@@ -3,7 +3,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 Data Analyst with expertise in SQL, Python, and Power BI. 
 Specialized in database design, data modeling, and dashboard development. 
 Focused on translating data into actionable insights.
@@ -13,10 +13,10 @@ Focused on translating data into actionable insights.
 ---
 
 ## Tech Stack
-- **Languages:** SQL (PostgreSQL, MySQL) | Python | JavaScript/TypeScript
+- **Languages:** SQL | Python | JavaScript/TypeScript
 - **Visualization:** Power BI | Matplotlib | Seaborn
 - **Tools:** Git | Jupyter Notebooks | Postman
-- **Databases:** PostgreSQL |  
+- **Databases:** PostgreSQL | MySQL 
 - **Platforms:** Power BI | Microsoft Power Platform
 
 ---
