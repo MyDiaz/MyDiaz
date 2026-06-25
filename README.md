@@ -24,8 +24,8 @@ Focused on translating data into actionable insights.
 ## Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [SIGPA frontend] (https://github.com/MyDiaz/AppPalma) | App for agricultural management of oil palm crops | Angular, Typescript |
-| [SIGPA backend] (https://github.com/MyDiaz/apppalmarest) | REST API for agricultural management of oil palm crops | Node, ExpressJS, Javascript |
+| [SIGPA frontend](https://github.com/MyDiaz/AppPalma) | App for agricultural management of oil palm crops | Angular, Typescript |
+| [SIGPA backend](https://github.com/MyDiaz/apppalmarest) | REST API for agricultural management of oil palm crops | Node, ExpressJS, Javascript |
 | [Airlines Satisfaction Analysis](https://github.com/MyDiaz/customer-satisfaction/blob/main/notebook/Airlines%20Customer%20satisfaction.ipynb) | Customer satisfaction analysis | Python, Pandas, Seaborn, Matplotlib |
 | [Power BI Portfolio](https://mavenshowcase.com/profile/a8813350-a0f1-7072-c7ad-882f66be5809) | Interactive reports | Power BI, DAX |
 
